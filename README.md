@@ -1,11 +1,8 @@
-# React Redux Testing with Mocha
-
-
-Checkout this repo, install dependencies, then start the gulp process with the following:
+# React Redux Testing with Mocha and Chai
 
 ```
-> git clone https://github.com/zitongliu/react-redux-testing-mocha.git
-> cd react-redux-testing-mocha
+> git clone https://github.com/zitongliu/react-redux-testing-mocha-chai.git
+> cd react-redux-testing-mocha-chai
 > npm install
 > npm start
 ```
